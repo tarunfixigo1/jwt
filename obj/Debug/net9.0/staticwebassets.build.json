@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ld69c7I5DRKKRUJbZWQAt7DW2wGwOKZzdjLBS7o1JPU=",
+  "Source": "JWTAPI",
+  "BasePath": "_content/JWTAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
